@@ -1,5 +1,5 @@
 # What:
-This is a simple Command-Line Program to randomly generate practice questions from
+This is a simple Command-Line Program to randomly retrieve practice questions from
 Launch School's PY101 curriculum questions, from the Launch School PY101 lessons and exercises.
 
 # How to use:
