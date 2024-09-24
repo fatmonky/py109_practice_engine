@@ -27,3 +27,5 @@ This should output five practice questions like the following:<br>
 3. Practice answering those questions whenever you want. 
 
 4. Press 'N' or 'n' to stop the program; press any other key (including 'y') to generate another 5 questions.
+
+_This is according to the Launch School Python track PY101 curriculum, as of Sept 24_
